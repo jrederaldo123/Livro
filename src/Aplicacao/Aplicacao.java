@@ -80,6 +80,7 @@ public class Aplicacao {
 				
 			default:
 				System.out.println("Opção inválida.");
+				break;
 				
 			}
 		}
